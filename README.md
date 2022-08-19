@@ -11,8 +11,8 @@ Class of "services" was created so that like CSS elements can be represented as 
 Alt attributes were added to each img tag for better website accessibility
 Footer was changed from h2 to h4 so that there is a logical structual flow on the page.
 
-![alt text]https://github.com/Bloomcaster/horiseon-code-refractor/blob/main/assets/images/screenshots/horiseon%20challenge%20aside.png
+![right side image](./assets/images/screenshots/horiseon%20challenge%20aside.png)
 
-![alt text]https://github.com/Bloomcaster/horiseon-code-refractor/blob/main/assets/images/screenshots/horiseon%20challenge%20seo%2C%20orm.png
+![three text box images](./assets/images/screenshots/horiseon%20challenge%20seo%2C%20orm.png)
 
-![alt text]https://github.com/Bloomcaster/horiseon-code-refractor/blob/main/assets/images/screenshots/horsison%20full%20screenshot.png
+![full page image](./assets/images/screenshots/horsison%20full%20screenshot.png)
